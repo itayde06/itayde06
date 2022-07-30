@@ -30,3 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itayde06&" alt="itayde06" /></p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/739999089563009037?hideStatus=true)](https://discord.com/users/739999089563009037)
+
