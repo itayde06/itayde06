@@ -13,7 +13,7 @@
 
 - 🤖 My discord bot [noky bot](https://discord.com/api/oauth2/authorize?client_id=856917292473647104&permissions=8&scope=bot%20applications.commands)
 
-- 👨‍💻 All of my projects are available at [nokybot.com](nokybot.com)
+- 👨‍💻 All of my projects are available at [https://nokybot.com/](nokybot.com)
 
 - 💬 Ask me about **my life and**
 
