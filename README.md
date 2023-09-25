@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python**
 
 - 🔧 My discord **Itay#0352**
-
-- 🤖 My discord bot [noky bot](https://discord.com/api/oauth2/authorize?client_id=856917292473647104&permissions=8&scope=bot%20applications.commands)
-
-- 👨‍💻 All of my projects are available at [https://nokybot.com/](nokybot.com)
 
 - 💬 Ask me about **my life and**
 
